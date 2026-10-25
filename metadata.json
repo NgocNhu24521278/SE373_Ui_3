@@ -1,0 +1,6 @@
+{
+  "name": "IELTS Speaking Mock Test — Phase 1 (TV1 UI & Deliverable)",
+  "description": "Interactive IELTS Speaking Mock Test (Part 1, Part 2 Cue Card, Part 3 Discussion) with Agent Tool Trace, Session Persistence, and TV1 Streamlit app.py Deliverable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

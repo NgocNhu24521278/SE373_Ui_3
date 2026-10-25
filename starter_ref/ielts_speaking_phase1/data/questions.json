@@ -1,0 +1,25 @@
+{
+  "source": "Original sample questions authored for this Phase 1 project; not an official IELTS question bank",
+  "tracks": {
+    "study": [
+      {"id": "st-p1-01", "part": 1, "kind": "base", "text": "Are you a student or do you work? Tell me a little about your daily routine."},
+      {"id": "st-p1-02", "part": 1, "kind": "followup", "text": "You mentioned {anchor}. Why is that important to you personally?"},
+      {"id": "st-p1-03", "part": 1, "kind": "base", "text": "What do you enjoy most about learning something new?"},
+      {"id": "st-p2-01", "part": 2, "kind": "cue", "text": "Describe a skill you would like to learn.\n\nYou should say:\n- what the skill is\n- how you would learn it\n- why you want to learn it\n\nand explain how it might help you in the future."},
+      {"id": "st-p2-02", "part": 2, "kind": "followup", "text": "You talked about {anchor}. What might be the hardest part of learning this skill?"},
+      {"id": "st-p3-01", "part": 3, "kind": "base", "text": "Do you think schools should focus more on practical skills than academic subjects? Why?"},
+      {"id": "st-p3-02", "part": 3, "kind": "followup", "text": "You mentioned {anchor}. Can you give a concrete example and consider an opposing view?"},
+      {"id": "st-p3-03", "part": 3, "kind": "base", "text": "How might technology change the way people learn new skills in the next ten years?"}
+    ],
+    "technology": [
+      {"id": "te-p1-01", "part": 1, "kind": "base", "text": "How often do you use technology during your day?"},
+      {"id": "te-p1-02", "part": 1, "kind": "followup", "text": "You mentioned {anchor}. What difference does it make to your everyday life?"},
+      {"id": "te-p1-03", "part": 1, "kind": "base", "text": "Do you prefer communicating online or face to face? Why?"},
+      {"id": "te-p2-01", "part": 2, "kind": "cue", "text": "Describe a useful piece of technology you have used.\n\nYou should say:\n- what it is\n- when you started using it\n- what you use it for\n\nand explain why it is useful to you."},
+      {"id": "te-p2-02", "part": 2, "kind": "followup", "text": "You referred to {anchor}. Would you recommend this technology to an older person? Why or why not?"},
+      {"id": "te-p3-01", "part": 3, "kind": "base", "text": "What are some disadvantages of relying too much on technology?"},
+      {"id": "te-p3-02", "part": 3, "kind": "followup", "text": "You mentioned {anchor}. How should society address that problem?"},
+      {"id": "te-p3-03", "part": 3, "kind": "base", "text": "Should governments do more to make digital technology available to everyone?"}
+    ]
+  }
+}
