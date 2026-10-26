@@ -2,15 +2,25 @@
 
 @layer base {
   :root {
+    --bg-main: #FFF5F9;
+    --pink-soft: #FFE0EC;
+    --pink-primary: #FF6FA5;
+    --pink-deep: #E04A86;
+    --text-main: #5B2B3F;
+    --text-muted: #A56A82;
+    --color-success: #7ED6A7;
+    --color-warning: #FFC46B;
+    --color-error: #FF7A8A;
     --font-display: 'Quicksand', 'Plus Jakarta Sans', sans-serif;
-    --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+    --font-sans: 'Quicksand', 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
     --font-mono: 'IBM Plex Mono', monospace;
   }
 
   body {
     font-family: var(--font-sans);
-    background-color: #FFF8FA;
-    color: #3B1D38;
+    background-color: var(--bg-main);
+    color: var(--text-main);
+    font-size: 16px;
     margin: 0;
     padding: 0;
     -webkit-font-smoothing: antialiased;
